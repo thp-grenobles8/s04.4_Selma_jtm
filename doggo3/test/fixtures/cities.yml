@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  sitter: one
+  dog: one
+  stroll: one
+
+two:
+  name: MyString
+  sitter: two
+  dog: two
+  stroll: two
